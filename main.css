@@ -1,0 +1,166 @@
+figure{
+	width:70%;
+}
+html{
+
+	font-family: Arial, Helvetica, sans-serif;
+	position:relative;
+}
+.container{
+	background-color:lightcyan;
+}
+.skillslist .container{
+	background-color:white;
+}
+
+
+.nav-pills{
+
+	background-color: gray;
+	color:white;
+}
+.nav-pills a{
+
+	color: white;
+	margin:10px;
+	
+}
+.navbar{
+
+	min-height:10px;
+}
+body{
+	margin-top: 40px;
+}
+
+.jumbotron{
+background-image: url('assets/fullmoon.jpg');
+
+background-size:cover;
+
+background-repeat: no-repeat;
+
+
+}
+.socmediaimages{
+
+	width:100%;
+}
+#linkedinpic{
+
+	margin-top: 10px;
+}
+
+
+
+.jumbotron p{
+
+	color:white;
+}
+
+.jumbotron h1{
+
+	color:white;
+}
+
+#downloadresume{
+
+	font-size: 175%;
+
+}
+
+#About{
+
+	text-align:center;
+	margin-bottom:5%;
+	background-color: azure;
+}
+.futureprojects{
+
+	display:none;
+}
+.rowoficons{
+	display:none;
+}
+.skillslist{
+	
+
+	margin-bottom:5%;
+}
+.skillslist .display-1{
+
+	text-align:center;
+}
+
+div #abouttext{
+	width:50%;
+	margin:auto;
+	margin-bottom:5%;
+	font-size: 170%;
+}
+
+input{
+
+	display:block;
+	margin: auto;
+}
+
+form p{
+
+	text-align:center;
+	margin:5px;
+	padding:3px;
+}
+
+form input{
+	margin-top: 10px;
+	margin-bottom:10px;
+}
+
+form textarea{
+	text-align:center;
+	margin:auto;
+	display:block;
+}
+
+#gotcha{
+
+	display:none;
+}
+
+#Contact{
+
+	border-top-color:black;
+	border-top-style: solid;
+	border-top-width: 2px;
+	background-color:antiquewhite;
+	margin-bottom: 0px;
+	text-align:center;
+}
+
+figure{
+	width: 70%;
+    border-color: black;
+    /* border-top: black; */
+    border-radius: 5px;
+    border-style: solid;
+	margin-bottom: 15px;
+	background-color:white;
+}
+
+footer{
+
+	text-align:center;
+	
+	
+	margin-top:1%;
+	margin-bottom:1%;
+	
+}
+
+#footerareadiv{
+	background-color:tan;
+}
+#contactform{
+	padding-bottom:1%;
+}
