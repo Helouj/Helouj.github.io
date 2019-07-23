@@ -95,6 +95,7 @@ background-repeat: no-repeat;
 	text-align:center;
 }
 
+
 div #abouttext{
 	width:50%;
 	margin:auto;
@@ -140,9 +141,14 @@ form textarea{
 	margin-bottom: 0px;
 	text-align:center;
 }
-
+.languageicon{
+	
+	max-width: 70%;
+	height: auto;
+	min-width:20px;
+}
 figure{
-	width: 70%;
+	
     
 	margin-bottom: 15px;
 	background-color:white;
